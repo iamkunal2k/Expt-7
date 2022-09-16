@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-14T14:10:33 IST" name="selenium.org.AppTest" finished-at="2022-09-14T14:10:57 IST" duration-ms="23652">
+    <groups>
+    </groups>
+    <test started-at="2022-09-14T14:10:33 IST" name="Command line test" finished-at="2022-09-14T14:10:57 IST" duration-ms="23652">
+      <class name="selenium.org.AppTest">
+        <test-method signature="testhelloworld()[pri:0, instance:selenium.org.AppTest@1cab0bfb]" started-at="2022-09-14T14:10:33 IST" name="testhelloworld" finished-at="2022-09-14T14:10:57 IST" duration-ms="23601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhelloworld -->
+      </class> <!-- selenium.org.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- selenium.org.AppTest -->
+</testng-results>
